@@ -22,7 +22,7 @@ exports.deterministicPartitionKey = (event) => {
 
 /**
  * This generates the hash string for the data supplied
- * @param {*} event 
+ * @param {*} data 
  * @returns string
  */
 function generateHash(data) {

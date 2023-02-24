@@ -48,7 +48,7 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 - Update the save and update functions to capture the new `custom_agent_id` field and persist it to the Shift table.
 
 ### Acceptance
-- Facilities should be able to add `custom_agent_id` to their shift form
+- Facilities should be able to add `custom_agent_id` on their shift form
 - Write UI test to ensure the `custom_agent_id` field is displayed
 - Write a integration test to ensure the `custom_agent_id` is captured.
 
@@ -64,4 +64,4 @@ You will be graded on the level of detail in each ticket, the clarity of the exe
 - New converted PDF report `id` should match the Shifts `custom_agent_id` if it is present.
 
 ### Estimated Time
-- 1 hours
+- 1 hour
